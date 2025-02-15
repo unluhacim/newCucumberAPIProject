@@ -32,6 +32,7 @@ public class StepDefinition {
     public void user_calls_with_post_http_request(String endpointURL) {
         response = request.when().post(endpointURL);
 
+
     }
     @Then("the API call is success with status code {int}")
     //@Then("^the API call is success with status code (.+)$")   //You can use this Regex patter for any data type

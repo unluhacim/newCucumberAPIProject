@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6912c8f-e4ee-4956-bffd-4f9b3fd7d59c" name="Changes" comment="Commit from Intellij" />
+    <list default="true" id="b6912c8f-e4ee-4956-bffd-4f9b3fd7d59c" name="Changes" comment="Commit from Intellij">
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/StepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/StepDefinition.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "git@github.com:unluhacim/CucumberAPIProject.git",
+    "url": "https://github.com/unluhacim/newCucumberAPIProject.git",
     "accountId": "e31ec350-68d2-4c3c-a434-796ce2eb7597"
   }
 }]]></component>
@@ -65,7 +67,7 @@
     "TestNG.TestRunner.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/munlu/IdeaProjects/TestNGMavenProject",
+    "last_opened_file_path": "C:/Users/munlu/IdeaProjects/newCucumberAPIProject",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -250,23 +252,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit from Intellij" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit from Intellij" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <condition expression="&quot;Cucumber+&quot;!=null" />
-          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/StepDefinition.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="tzatziki.gherkin.step">
-          <url>file://$PROJECT_DIR$/src/test/java/features/placeValidations.feature</url>
-          <line>5</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CucumberAPIProject$Interview01.ic" NAME="Interview01 Coverage Results" MODIFIED="1739313707001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
