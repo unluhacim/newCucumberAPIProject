@@ -1,0 +1,7 @@
+<configuration>
+    <theme>standard</theme>
+    <encoding>UTF-8</encoding>
+    <protocol>https</protocol>
+    <documentTitle>Test Report</documentTitle>
+    <reportName>Extent Report - Cucumber TestNG</reportName>
+</configuration>
