@@ -36,7 +36,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: cucumber-api-test-reports
-          path: newCucumberAPIProject/target/cucumber-reports # Adjust based on your config
+          path: newCucumberAPIProject/src/test/java/runners/TestRunner.java # Adjust based on your config
 
       - name: Notify on failure
         if: failure()
